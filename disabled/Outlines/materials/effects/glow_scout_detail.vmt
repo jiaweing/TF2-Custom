@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "effects/glow_scout_detail"
+	"$translucent" 1
+
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+	}
+}

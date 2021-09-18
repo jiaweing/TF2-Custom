@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "effects/bonk_outline"
+	"$translucent" 1
+
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+	}
+}

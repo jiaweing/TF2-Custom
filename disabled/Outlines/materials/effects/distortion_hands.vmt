@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+ 	"$normalmap" "effects/conc_normal"
+	"$vertexalpha" "1"
+	"$vertexcolor" "0"
+	"$translucent" "1"
+	"$forcerefract" 1
+//	"$ignorez" "1"
+ 	"$bluramount" "1"
+	"$nofog" "1"
+//	"$refracttinttexture" "effects/conc_tint"
+	"$vertexcolormodulate" "1"
+	"$cloakPassEnabled" "1"
+	"$cloakfactor" "0.99999997"
+	"$refractamount" "0"
+}
+

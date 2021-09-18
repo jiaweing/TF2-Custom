@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "effects/sandman_glow"
+	"$translucent" 1
+
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+	}
+}
