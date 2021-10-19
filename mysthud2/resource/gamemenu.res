@@ -70,10 +70,34 @@
 		"command"		"motd_show"
 		"tooltip"		"#TF_OptionCategory_HUD"
 	}
-	"HomeServerButton"
+	"HomeServerButton1"
 	{
 		"label"			"p"
 		"command"		"engine connect sg.orangex1000.titan.tf:27000"
-		"tooltip"		"Home Server"
+		"tooltip"		"Home Server 1"
+	}
+	"HomeServerButton2"
+	{
+		"label"			"p"
+		"command"		"engine connect sg.mvmx1000.titan.tf:27000"
+		"tooltip"		"Home Server 2"
+	}
+	"HomeServerButton3"
+	{
+		"label"			"p"
+		"command"		"engine connect sg.ma1.titan.tf:27000"
+		"tooltip"		"Home Server 3"
+	}
+	"HomeServerButton4"
+	{
+		"label"			"p"
+		"command"		"engine connect sg.ma2.titan.tf:27000"
+		"tooltip"		"Home Server 4"
+	}
+	"HomeServerButton5"
+	{
+		"label"			"p"
+		"command"		"engine connect sg.ma3.titan.tf:27000"
+		"tooltip"		"Home Server 5"
 	}
 }
