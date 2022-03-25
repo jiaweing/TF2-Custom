@@ -217,8 +217,8 @@
 	"CHudAccountPanel"
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c200"
-		"ypos"					"c130"
+		"xpos"					"c-29"
+		"ypos"					"c20"
 		"zpos"					"0"
 		"wide"					"55"
 		"tall"  				"70"
