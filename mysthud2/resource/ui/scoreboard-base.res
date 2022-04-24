@@ -420,6 +420,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 
+		if_mvm
+		{
+			"ypos"			"342"
+		}
+		
 		"pin_to_sibling"		"MapName"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
