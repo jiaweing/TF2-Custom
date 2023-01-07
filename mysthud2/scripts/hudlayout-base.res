@@ -13,7 +13,7 @@
 	{
 		"visible"			"1"
 		"enabled"			"1"
-		"labelText"			":"
+		"labelText"			"0"
 		"controlName"		"CExLabel"
 		"fieldName"			"CustomCrosshair"
 		"zpos"				"0"
@@ -23,7 +23,7 @@
 		"tall"				"f0"
 		"font"				"Size:30 | Outline:OFF"
 		"textAlignment"		"center"
-		"fgcolor"			"Crosshair"
+		"fgcolor"			"0 0 0 0" // Crosshair
 	}
 	//--------------------------------------------------------------
 	// TRANSPARENT VIEWMODEL
@@ -39,7 +39,7 @@
 		"zpos"				"-100"
 		"wide"				"f0"
 		"tall"				"480"
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"0"
 		"image"				"replay/thumbnails/transparent"
 		"scaleImage"		"1"
